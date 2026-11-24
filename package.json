@@ -1,7 +1,7 @@
 {
   "name": "derrubada",
-  "version": "0.1.0",
-  "description": "Corte o pé da árvore com um machado e ela tomba INTEIRA, como um corpo rígido: uma entidade, uma malha, física no servidor a 20 Hz. Bate no que houver no caminho, repica, deita, e só então vira tora e partícula de folha. Regras de jogo derrubada:arvores e derrubada:dano_arvore.",
+  "version": "0.2.0",
+  "description": "Corte o pé da árvore com um machado e ela tomba INTEIRA, como um corpo rígido: uma entidade, uma malha, física no servidor a 20 Hz. Bate no que houver no caminho, repica, deita, e só então vira tora e partícula de folha. Uma árvore não é uma forma: tronco 2x2, palmeira que curva, tronco com galhos, copa enorme e até cogumelo gigante caem igual, e um mod declara a sua árvore por tag (c:logs, c:leaves, c:tree_foliage) ou pelo registro derrubada:trees. Regras de jogo derrubada:arvores, derrubada:dano_arvore e derrubada:tamanho_max.",
   "authors": [
     "MineClaude"
   ],
